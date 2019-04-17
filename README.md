@@ -6,7 +6,7 @@
 
 本项目主要目的是直观列出全国的莆田系医院，让更多的人认识到莆田系医院的危害，并共同抵制莆田系医院以及其帮凶
 
-**项目网址：** [https://putianxi.github.io](https://putianxi.github.io)
+**项目网址：** [http://putianxi.idinu.com](https://putianxi.idinu.com)
 
 **原创数据：** [点此下载](https://github.com/putianxi/putianxi.github.io/raw/master/assets/data/hospital.xlsx)
 
